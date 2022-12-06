@@ -1388,20 +1388,6 @@ body {
 	width: 440px;
 	display: block;
 }
-#footer .text-privacy {
-	padding: 0 40px;
-}
-#footer .phone-number {
-	border-left: 1px solid #E7E3DC;
-    border-right: 1px solid #E7E3DC;
-}
-#footer a.privacy_policy{
-	display: block;
-    text-align: center;
-    color: black;
-    font-weight: 300;
-    font-size: 16px;
-}
 #footer .text .number a {
 	display: none;
 }
